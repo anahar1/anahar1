@@ -1,10 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=gholtzap&icon=8&color=6)](https://visitcount.itsvg.in)
 ## About Me:
-👋 Hi! My name is Gavin Holtzapple, and I'm a CS student at ASU. <a href="https://gholtzap.github.io/" target="_blank">Visit my portfolio website</a> to learn more!
+👋 Hi! My name is Anish Nahar, and I'm a CS student at ASU. <a href="https://nossherlock.github.io/" target="_blank">Visit my portfolio website</a> to learn more!
 
 
 ## LinkedIn:
-<a href="https://www.linkedin.com/in/gholtzap/" target="_blank">
+<a href="https://www.linkedin.com/in/anishnahar/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
