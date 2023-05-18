@@ -1,6 +1,6 @@
-[![](https://visitcount.itsvg.in/api?id=nossherlock&icon=8&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anahar1&icon=8&color=6)](https://visitcount.itsvg.in)
 ## About Me:
-👋 Hi! My name is Anish Nahar, and I'm a CS student at ASU. <a href="https://nossherlock.github.io/" target="_blank">Visit my portfolio website</a> to learn more!
+👋 Hi! My name is Anish Nahar, and I'm a CS student at ASU. <a href="https://anahar1.github.io/" target="_blank">Visit my portfolio website</a> to learn more!
 
 
 ## LinkedIn:
